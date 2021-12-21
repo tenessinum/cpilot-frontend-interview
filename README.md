@@ -7,7 +7,7 @@
 В файле `/app/src/consts.js` лежат адреса бекенда. По умолчанию:
 
 ```js
-API_URL: 'http://localhost:8000',
+API_URL: 'http://localhost:8000'
 WS_API_URL: 'ws://localhost:8000'
 ```
 
